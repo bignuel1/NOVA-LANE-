@@ -1,0 +1,17 @@
+{
+  "short_name": "NOVA LANE",
+  "name": "NOVA LANE - Clothing & Accessories",
+  "icons": [
+    {
+      "src": "/file_000000008fa071f8ade85814e536eda8.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1a1a2e",
+  "background_color": "#1a1a2e",
+  "orientation": "portrait"
+}
